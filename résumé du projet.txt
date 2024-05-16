@@ -1,6 +1,5 @@
 Order 66
-Quentin CHEZE Julian Martel Amaury Dellode
-L’idée du projet order 66 est née de notre passion commune pour la saga star wars. 
-On a d’abord fait l’interface graphique pour ensuite faire les mouvements et le tir de rex. 
-Après sa nous avons créé les niveaux et ajouté les collisions, pour faciliter la mise en relation des différentes fonctions nous avons tout mit sur un github. 
-Une fois les bases faites, nous avons ajouté un système de mort, des piques et des ennemies. Pour finir nous avons travaillé sur le design et rajouter un second niveau. Nous avons essayé d’ajouter un écran d’accueil mais c’était trop complexe.
+Lâ€™idÃ©e du projet order 66 est nÃ©e de notre passion commune pour la saga star wars. 
+On a dâ€™abord fait lâ€™interface graphique pour ensuite faire les mouvements et le tir de rex. 
+AprÃ¨s sa nous avons crÃ©Ã© les niveaux et ajoutÃ© les collisions, pour faciliter la mise en relation des diffÃ©rentes fonctions nous avons tout mit sur un github. 
+Une fois les bases faites, nous avons ajoutÃ© un systÃ¨me de mort, des piques et des ennemies. Pour finir nous avons travaillÃ© sur le design et rajouter un second niveau. Nous avons essayÃ© dâ€™ajouter un Ã©cran dâ€™accueil mais câ€™Ã©tait trop complexe.
